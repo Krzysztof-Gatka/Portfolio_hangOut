@@ -8,3 +8,7 @@ brainstorming:
 While developing my first project MealSelect I have changed styles and markups so many times that I still have nightmares about it, to avoid that this time
 I am starting development of this app by using Figma to create design of the app, I hope that it will save me a lot of time and headaches.
 App design will appear here soon !
+
+First version of app (Welcome Page and Home Page)
+![WelcomePage](https://github.com/Krzysztof-Gatka/Portfolio_hangOut/assets/127889748/71519fc3-f56a-4966-b8aa-200311f5f226)
+![HomePage](https://github.com/Krzysztof-Gatka/Portfolio_hangOut/assets/127889748/6d6a1e94-f348-433e-b61c-6158d7f6d8b1)
